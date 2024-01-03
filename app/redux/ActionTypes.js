@@ -1,0 +1,3 @@
+export const INCREMENT_COUNTER = "INCREMENT_COUNTER";
+
+export const GET_POSTS = "GET_POSTS"
